@@ -1,0 +1,11 @@
+@import "./../../../pages/admin.component.scss";
+
+button#sidebar-toggle {
+    color: $admin-primary-color;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.shadow[_ngcontent-vxy-c19] {
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+}
